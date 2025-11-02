@@ -1,0 +1,8 @@
+venv
+
+# dados sensiveis
+/data/raw/
+/data/processed/
+/data/analytics/
+
+
