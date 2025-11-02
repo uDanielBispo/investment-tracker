@@ -32,7 +32,7 @@ Com ele, é possível explorar movimentações de compra e venda, rendimentos, v
 ---
 
 ## 🏗️ Estrutura do Projeto
-
+```
 investment-tracker/
 │
 ├── data/
@@ -54,6 +54,7 @@ investment-tracker/
 ├── requirements.txt # Dependências do projeto
 ├── README.md # Documentação
 └── LICENSE # Licença
+```
 
 ---
 
