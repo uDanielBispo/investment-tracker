@@ -146,5 +146,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 ## 👨‍💻 Autor
 
 **Daniel Bispo**
+
 Desenvolvedor e entusiasta de engenharia de dados, automação e finanças pessoais.
+
 📫 [LinkedIn](https://www.linkedin.com/in/udanielbispo/) • [GitHub](https://github.com/uDanielBispo)
